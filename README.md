@@ -94,6 +94,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Ana Carolina de Sousa Silva - anacss@usp.br 
+
 Gustavo Voltani von Atzingen - gustavo.von.atzingen@gmail.com
  
 
